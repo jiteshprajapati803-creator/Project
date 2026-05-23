@@ -1,0 +1,6 @@
+@Qick_Fix_WebAPI_HostAddress = http://localhost:5003
+
+GET {{Qick_Fix_WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
