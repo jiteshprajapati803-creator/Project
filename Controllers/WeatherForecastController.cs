@@ -8,7 +8,7 @@ namespace Qick_Fix_WebAPI.Controllers
     {
         private static readonly string[] Summaries =
         [
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching","more"
+            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching",
         ];
 
         [HttpGet(Name = "GetWeatherForecast")]
